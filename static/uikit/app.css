@@ -104,7 +104,7 @@ pre.codeblock {
 }
 
 
-.alert {
+/* .alert {
   position: fixed;
   left: 50%;
   top: 120px;
@@ -112,4 +112,4 @@ pre.codeblock {
 
 
   z-index: 99999;
-}
+} */
